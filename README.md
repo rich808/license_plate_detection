@@ -1,6 +1,6 @@
 ## License Plate Detection 
 
-License plat detection with OpenCV and Pytesseract.
+License plate detection with OpenCV and Pytesseract.
 
 ![](./lp_text.jpg)
 
